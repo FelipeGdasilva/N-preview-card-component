@@ -23,7 +23,7 @@ A interface apresenta um card informativo com imagem, texto e elementos visuais 
 ## 🔗 Projeto online
 
 Se disponível, você pode acessar o projeto publicado aqui:  
-➡️ *GitHub Pages*
+➡️ https://felipegdasilva.github.io/N-preview-card-component/
 
 ## 👨‍💻 Autor
 
